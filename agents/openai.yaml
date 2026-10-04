@@ -1,0 +1,7 @@
+interface:
+  display_name: "Ghibli Icon Maker"
+  short_description: "Create warm line icons on soft pastel tiles"
+  icon_small: "./assets/ghibli-icon-maker.png"
+  icon_large: "./assets/ghibli-icon-maker.png"
+  brand_color: "#D4C9E1"
+  default_prompt: "Use $ghibli-icon-maker to turn my idea into a warm hand-drawn icon on a soft pastel tile."
