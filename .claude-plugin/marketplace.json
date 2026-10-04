@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ghibli-icon-maker",
+  "description": "Ghibli Icon Maker: hand-drawn charcoal icons on washed pastel tiles.",
+  "owner": { "name": "Rachael Quisel" },
+  "plugins": [
+    {
+      "name": "ghibli-icon-maker",
+      "description": "Give your ideas a softer look. Draws hand-made charcoal line icons on washed pastel tiles, so a set of plugins, apps, or brand marks reads as one family.",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://github.com/RachaelQuisel/ghibli-icon-maker"
+    }
+  ]
+}

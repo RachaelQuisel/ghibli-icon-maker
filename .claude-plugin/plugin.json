@@ -1,0 +1,16 @@
+{
+  "name": "ghibli-icon-maker",
+  "displayName": "Ghibli Icon Maker",
+  "description": "Give your ideas a softer look. Draws hand-made charcoal line icons on washed pastel tiles, so a set of plugins, apps, or brand marks reads as one family instead of a pile of clip art.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "homepage": "https://github.com/RachaelQuisel/ghibli-icon-maker",
+  "repository": "https://github.com/RachaelQuisel/ghibli-icon-maker",
+  "license": "MIT",
+  "keywords": ["icon", "design", "illustration", "branding", "logo"],
+  "icon": "./assets/ghibli-icon-maker.png",
+  "documentationUrl": "https://github.com/RachaelQuisel/ghibli-icon-maker#readme",
+  "supportUrl": "https://github.com/RachaelQuisel/ghibli-icon-maker/issues"
+}
