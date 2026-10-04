@@ -14,7 +14,7 @@ Generate a new icon that looks like it belongs with the existing Soft Index set:
 3. Study `references/render_icons.py` for the technique. Reuse its geometry helpers (`squircle`, `arc`, `circle`, `seg`, `bez`, `rrect`, `sparkle`), the `soften()` hand-wobble, and the `Sheet` API (`paint`, `stroke`, `dot`) exactly as written. Do not reinvent the renderer.
 4. Author one new drawing function following the three existing ones as patterns. See `references/examples.md` for what each model icon does.
 5. Pick a fresh palette from the dust family: a washed top/bottom gradient pair, a glow tint, and a wash tint. Blush, clay, mauve, cooled blue-grey, sage. Never saturated, and never repeat a sibling icon's palette within the same set.
-6. Render at 1024x1024 and read the output image yourself before showing the user.
+6. Render at 1024x1024 and read the output image yourself before showing the user. Copy `render_icons.py` to a working folder first, because it writes PNGs next to itself. Run it with `uv run --no-project --with pillow python render_icons.py`, because Pillow is not installed system-wide. For a directory submission, run the PNG through publish-a-plugin's `scripts/shrink_icon.py`, because the three model renders came out at 744-798 KiB and the observed ceiling is about 750 KiB.
 7. Present the icon and iterate on feedback.
 
 ## Output Contract
