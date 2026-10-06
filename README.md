@@ -4,6 +4,10 @@
 
 Give your ideas a softer look. Create warm charcoal line icons on washed pastel tiles for creative projects, websites, apps, and brands.
 
+## Claude Marketplace submission
+
+Submitted to the [Claude Marketplace partner waitlist](https://claude.com/marketplace-partners) on **October 5, 2026**, through XRAY Automation. Submission confirmation was received; Marketplace eligibility and listing have not yet been confirmed.
+
 ## What it does
 
 - Turns a subject or concept into a simple icon
