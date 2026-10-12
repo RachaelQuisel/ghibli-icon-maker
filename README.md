@@ -13,7 +13,9 @@ Submitted to the [Claude Marketplace partner waitlist](https://claude.com/market
 - Turns a subject or concept into a simple icon
 - Uses the Soft Index visual style: warm linework, muted pastels, and paper texture
 - Keeps spacing and line weight consistent across a set
-- Adds a small sparkle and aperture detail
+- Makes skill/plugin icons show the specific job they perform
+- Includes a recognizable platform logo when the skill/plugin targets a platform
+- Uses an aperture detail and an optional decorative accent
 - Produces a 1024 by 1024 RGBA PNG with transparent tile corners
 
 ## Install in Claude Code
@@ -35,6 +37,8 @@ Use a warm, calm mood and a muted palette.
 
 Provide the subject, the name the icon will carry, and the mood. The skill uses the supplied renderer, checks the resulting image, and presents it for feedback.
 
+For a skill/plugin icon, also describe what it builds or does and the platform it targets. The [Airtable Interface Builder example](skills/ghibli-icon-maker/references/images/airtable-interface-builder.png) pairs an Airtable identifier with a window, sidebar, cards and task rows. Its sparkle was removed following user feedback. Platform logos may retain their brand colors while the main drawing keeps the Soft Index style.
+
 The Python renderer requires Pillow. A compatible environment can be started with:
 
 ```sh
@@ -49,5 +53,5 @@ Running the reference renderer exports its three model icons and a contact sheet
 - `agents/openai.yaml`: Codex display name, prompts, and icon references
 - `assets/ghibli-icon-maker.png`: the plugin icon
 - `references/design-philosophy.md`: the Soft Index style rules
-- `references/examples.md`: the three model icon descriptions
+- `references/examples.md`: style studies and the approved platform/function example
 - `references/render_icons.py`: the supplied renderer and model drawings

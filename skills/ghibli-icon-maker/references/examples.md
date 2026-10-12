@@ -1,6 +1,6 @@
 # Model outcomes
 
-The three icons this skill was built from. New icons should feel inevitable next to these: one contour language, generous empty field, total discipline. Open the bundled PNGs with an image viewer before drawing.
+The style studies establish the Soft Index style. The Airtable example adds platform recognition and a clearer depiction of the skill's job. New icons should share the contour language, spacing and paper texture. Open the relevant bundled PNGs with an image viewer before drawing.
 
 ## worth-asking
 - Palette: blue-grey wash (top 229,238,239 / bottom 190,212,218), glow 255,246,224.
@@ -25,3 +25,10 @@ The three icons this skill was built from. New icons should feel inevitable next
 - Subject: toggle switch drawn as a capsule, knob outlined at the left so it reads as off; three dots in the empty half of the track.
 - Accent: sparkle top-right.
 - Visual reference: [turn-off-ai-data-sharing.png](images/turn-off-ai-data-sharing.png)
+
+## airtable-interface-builder
+- Palette: washed mauve/lilac tile with warm charcoal linework; a secondary Airtable identifier keeps its recognizable yellow, red and blue colors.
+- Subject: application window with a title bar, sidebar, overview cards and task rows. These details show what the plugin builds.
+- Accent: no sparkle, following the user's request. The platform identifier provides the secondary visual cue.
+- Lesson: show both the platform and the specific job. Choose a recognizable output or action for the main illustration, and use a faithful platform mark alongside it.
+- Visual reference: [airtable-interface-builder.png](images/airtable-interface-builder.png)
