@@ -6,7 +6,9 @@ Give your ideas a softer look. Create warm charcoal line icons on washed pastel 
 
 ## Claude Marketplace submission
 
-Submitted to the [Claude Marketplace partner waitlist](https://claude.com/marketplace-partners) on **October 5, 2026**, through XRAY Automation. Submission confirmation was received; Marketplace eligibility and listing have not yet been confirmed.
+- **Submitted:** [Claude Marketplace partner waitlist](https://claude.com/marketplace-partners), October 5, 2026, through XRAY Automation. Confirmation was received.
+- **Current status:** Waitlist application confirmed. Directory approval or a public listing has not been verified.
+- **Status checked:** October 12, 2026.
 
 ## What it does
 
