@@ -10,6 +10,17 @@ Give your ideas a softer look. Create warm charcoal line icons on washed pastel 
 - **Current status:** Waitlist application confirmed. Directory approval or a public listing has not been verified.
 - **Status checked:** October 12, 2026.
 
+### Evidence audit: October 16, 2026
+
+- **Partner waitlist:** Submission confirmation recorded for 2026-10-05, through XRAY Automation. This is retained repository evidence, not a newly inspected confirmation receipt.
+- **Plugin directory:** No separate directory submission evidence found.
+- **Approved:** Unverified. **Publicly listed:** Unverified. No verified public listing URL is recorded.
+- **Verification limit:** The publisher portal requires sign-in. Public searches and the connected mailbox search did not establish approval; missing results are not proof of rejection or non-publication.
+- **Next action:** Retrieve the original partner confirmation; check the submitting account for a separate plugin-directory submission before creating one.
+
+The [partner waitlist](https://claude.com/marketplace-partners) is for Claude-powered enterprise products. It is separate from plugin-directory review and GitHub marketplace installation. A waitlist application is not directory approval.
+
+
 ## What it does
 
 - Turns a subject or concept into a simple icon
@@ -44,16 +55,15 @@ For a skill/plugin icon, also describe what it builds or does and the platform i
 The Python renderer requires Pillow. A compatible environment can be started with:
 
 ```sh
-uv run --with pillow python references/render_icons.py
+uv run --with pillow python skills/ghibli-icon-maker/references/render_icons.py
 ```
 
-Running the reference renderer exports its three model icons and a contact sheet alongside the script. New subjects are authored with its existing geometry and drawing helpers as described in `SKILL.md`.
+Running the reference renderer exports its three model icons and a contact sheet alongside the script. New subjects are authored with its existing geometry and drawing helpers as described in `skills/ghibli-icon-maker/SKILL.md`.
 
 ## Files
 
-- `SKILL.md`: the skill instructions
-- `agents/openai.yaml`: Codex display name, prompts, and icon references
+- `skills/ghibli-icon-maker/SKILL.md`: the skill instructions
 - `assets/ghibli-icon-maker.png`: the plugin icon
-- `references/design-philosophy.md`: the Soft Index style rules
-- `references/examples.md`: style studies and the approved platform/function example
-- `references/render_icons.py`: the supplied renderer and model drawings
+- `skills/ghibli-icon-maker/references/design-philosophy.md`: the Soft Index style rules
+- `skills/ghibli-icon-maker/references/examples.md`: style studies and the approved platform/function example
+- `skills/ghibli-icon-maker/references/render_icons.py`: the supplied renderer and model drawings
