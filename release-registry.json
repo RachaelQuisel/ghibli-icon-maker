@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "repository": "RachaelQuisel/ghibli-icon-maker",
+  "packages": [
+    {
+      "name": "ghibli-icon-maker",
+      "root": ".",
+      "version": "1.0.4",
+      "manifests": [
+        "plugin.json",
+        ".claude-plugin/plugin.json",
+        ".codex-plugin/plugin.json"
+      ],
+      "skills": [
+        "skills/ghibli-icon-maker/SKILL.md"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "path": "skills/ghibli-icon-maker/SKILL.md",
+      "version": "1.0.4",
+      "sha256": "73a27986b20a04924f2851e72a5f5a372ade5e3fa8342f439c5f31bc2da5127f",
+      "source": "skills/ghibli-icon-maker/SKILL.md",
+      "guide": "skills/ghibli-icon-maker/README.md"
+    }
+  ],
+  "copies": []
+}

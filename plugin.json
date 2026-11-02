@@ -1,0 +1,33 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "author": {
+    "name": "Rachael Quisel"
+  },
+  "description": "Give your ideas a softer look. Draws hand-made charcoal line icons on washed pastel tiles, so a set of plugins, apps, or brand marks reads as one family instead of a pile of clip art.",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "capabilities": [],
+        "category": "Productivity",
+        "composerIcon": "./assets/ghibli-icon-maker.png",
+        "developerName": "Rachael Quisel",
+        "displayName": "Ghibli Icon Maker",
+        "logo": "./assets/ghibli-icon-maker.png",
+        "longDescription": "Give your ideas a softer look. Draws hand-made charcoal line icons on washed pastel tiles, so a set of plugins, apps, or brand marks reads as one family instead of a pile of clip art.",
+        "shortDescription": "Draw soft charcoal icons"
+      }
+    }
+  },
+  "homepage": "https://github.com/RachaelQuisel/ghibli-icon-maker",
+  "keywords": [
+    "icon",
+    "design",
+    "illustration",
+    "branding",
+    "logo"
+  ],
+  "license": "MIT",
+  "name": "ghibli-icon-maker",
+  "repository": "https://github.com/RachaelQuisel/ghibli-icon-maker",
+  "version": "1.0.4"
+}

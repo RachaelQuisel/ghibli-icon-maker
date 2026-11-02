@@ -1,9 +1,23 @@
 ---
 name: "ghibli-icon-maker"
+version: 1.0.4
 description: "Create hand-drawn icons for creative projects, apps, and brands in the Soft Index style: warm charcoal line art on washed pastel grounds inside a squircle tile. Use when the user asks for an icon or logo mark in this style, or mentions Ghibli Icon Maker."
 ---
 
 # Ghibli Icon Maker
+
+## Purpose in plain English
+
+This skill helps you create hand-drawn charcoal icons on soft pastel backgrounds with a consistent visual style.
+
+## How to explain the result
+
+For a client-facing explanation, use ordinary words and the requested format. Explain unfamiliar abbreviations. Name what each number counts and explain its practical meaning. Keep internal identifiers out of the explanation. Keep necessary technical details in the working steps and technical references.
+
+## Following the process
+
+Use the process below. Preserve its conditions, commands, checks, and approval rules. Use information the user already supplied. Follow the existing questions or stopping rules when required information is missing.
+
 
 ## Purpose
 Generate a new icon that looks like it belongs with the existing Soft Index set: a clear hand-drawn subject in warm charcoal, floating on a washed pastel ground inside a squircle tile.
