@@ -1,6 +1,6 @@
 ---
 name: "ghibli-icon-maker"
-version: 1.0.4
+version: 1.0.5
 description: "Create hand-drawn icons for creative projects, apps, and brands in the Soft Index style: warm charcoal line art on washed pastel grounds inside a squircle tile. Use when the user asks for an icon or logo mark in this style, or mentions Ghibli Icon Maker."
 ---
 
